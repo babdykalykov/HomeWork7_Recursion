@@ -1,0 +1,14 @@
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/bin/Debug/net7.0/HomeWork7.3
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/bin/Debug/net7.0/HomeWork7.3.deps.json
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/bin/Debug/net7.0/HomeWork7.3.runtimeconfig.json
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/bin/Debug/net7.0/HomeWork7.3.dll
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/bin/Debug/net7.0/HomeWork7.3.pdb
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.AssemblyInfoInputs.cache
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.AssemblyInfo.cs
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.csproj.CoreCompileInputs.cache
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.dll
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/refint/HomeWork7.3.dll
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.pdb
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/HomeWork7.3.genruntimeconfig.cache
+/Users/babdykalykov/Downloads/DevOps/C#/Lesson7_Reсursion/HomeWork7.3/obj/Debug/net7.0/ref/HomeWork7.3.dll
